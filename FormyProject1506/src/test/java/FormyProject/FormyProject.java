@@ -24,5 +24,10 @@ public class FormyProject {
 		
 		System.out.println("This is the pulled code from github");
 	}
+	
+	public void branchTest() {
+		
+		System.out.println("This is a branch test");
+	}
 
 }
